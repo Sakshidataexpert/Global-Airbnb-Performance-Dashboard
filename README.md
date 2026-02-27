@@ -100,3 +100,4 @@ Dynamic slicers allow filtering by:
 • Strategic Decision Support – Enables marketplace optimization and expansion planning.
 
 ## Screenshots / Demo
+https://github.com/Sakshidataexpert/Global-Airbnb-Performance-Dashboard/blob/main/Airbnb%20Snapshot.pdf
