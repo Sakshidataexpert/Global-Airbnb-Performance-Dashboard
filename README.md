@@ -63,8 +63,7 @@ Tracks Airbnb’s expansion from 2010 take-off to 2016 profitability and highlig
 🔹 Market Share Analysis (Cumulative Metrics)
 Reveals that 90.6% of total listings are concentrated in the top 8 cities, showing strong geographic dominance.
 
-🔹 City-Level Deep Dive
-Identifies Paris, NYC, and Sydney contributing ~50% of total listings, with Paris dominance influenced by hotel prices being nearly 2x private room rates (~$800).
+🔹 Identifies Paris, NYC, and Sydney contributing ~50% of total listings, with Paris dominance influenced by hotel prices being nearly 2x private room rates (~$800).
 
 🔹 Pricing & Listing Type Comparison
 Compares Entire Home vs Private Room pricing structures across cities.
